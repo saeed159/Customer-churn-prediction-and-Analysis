@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/20112/Desktop/Grad%20project/Customer-churn-prediction-and-Analysis/deploy/mlruns/0/447a030d6400483d85a70fe394be8647/artifacts
+deleted_time: 1746387707120
+end_time: 1746382405323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 447a030d6400483d85a70fe394be8647
+run_name: treasured-hawk-901
+run_uuid: 447a030d6400483d85a70fe394be8647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746382303774
+status: 3
+tags: []
+user_id: '20112'

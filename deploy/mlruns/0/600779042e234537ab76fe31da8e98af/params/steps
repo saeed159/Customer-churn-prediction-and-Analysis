@@ -1,0 +1,1 @@
+[('scaler', StandardScaler()), ('clf', ClfSwitcher(estimator=RandomForestClassifier(random_state=42)))]

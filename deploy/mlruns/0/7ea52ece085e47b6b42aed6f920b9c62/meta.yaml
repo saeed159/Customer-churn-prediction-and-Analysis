@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/20112/Desktop/Grad%20project/Customer-churn-prediction-and-Analysis/deploy/mlruns/0/7ea52ece085e47b6b42aed6f920b9c62/artifacts
+deleted_time: 1746387735756
+end_time: 1746382336607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7ea52ece085e47b6b42aed6f920b9c62
+run_name: model_2
+run_uuid: 7ea52ece085e47b6b42aed6f920b9c62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746382328199
+status: 3
+tags: []
+user_id: '20112'
