@@ -1,0 +1,13 @@
+
+services:
+  fastapi:
+    build: .
+    ports:
+      - "8000:8000"
+    command: uvicorn Predict:app --host 0.0.0.0 --port 8000
+
+  mlflow:
+    build: .
+    ports:
+      - "5000:5000"
+    command: mlflow server --host 0.0.0.0 --port 5000

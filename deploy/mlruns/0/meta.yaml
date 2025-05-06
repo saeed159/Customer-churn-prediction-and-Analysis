@@ -1,6 +1,6 @@
-artifact_location: file:///C:/Users/20112/Desktop/Grad%20project/Customer-churn-prediction-and-Analysis/deploy/mlruns/0
-creation_time: 1746382303138
+artifact_location: file:///C:/E/python/Customer-churn-prediction-and-Analysis/Customer-churn-prediction-and-Analysis/deploy/mlruns/0
+creation_time: 1746428499646
 experiment_id: '0'
-last_update_time: 1746382303138
+last_update_time: 1746428499646
 lifecycle_stage: active
 name: Default

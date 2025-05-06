@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/E/python/Customer-churn-prediction-and-Analysis/Customer-churn-prediction-and-Analysis/deploy/mlruns/0/8ac3c7fa37f14f2885d25f26cf0e4981/artifacts
+end_time: 1746428739603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ac3c7fa37f14f2885d25f26cf0e4981
+run_name: model_25
+run_uuid: 8ac3c7fa37f14f2885d25f26cf0e4981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746428733390
+status: 3
+tags: []
+user_id: RaMShafik
